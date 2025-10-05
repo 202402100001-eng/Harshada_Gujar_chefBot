@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136782514463",
+    "project_id": "chefbot-b582c",
+    "storage_bucket": "chefbot-b582c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136782514463:android:01543766436d9a784e082a",
+        "android_client_info": {
+          "package_name": "com.mit.harshada_gujar_chefbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw5p5WYayLuBOOIDtYQGFWldC0KLRlDEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
